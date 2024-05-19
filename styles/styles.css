@@ -44,7 +44,8 @@ section {
 
 #photos .photo-gallery img {
     max-width: 100%;
-    height: auto;
+    height: 70px;
+    border-radius: 35px;
 }
 
 footer {
